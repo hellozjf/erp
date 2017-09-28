@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ufinterface sender="001" receiver="u8" roottag="receivesendtype" docid="401977896" proc="Delete" codeexchanged="N" exportneedexch="N" paginate="0" display="收发类别" family="基础档案" timestamp="0x000000000027B5D2">
+  <receivesendtype>
+    <code>120</code>
+    <name>hellozjf入库</name>
+    <sort>2</sort>
+    <rsflag>1</rsflag>
+    <end_flag>1</end_flag>
+    <oppsubject_code/>
+    <bRetail>0</bRetail>
+  </receivesendtype> 
+</ufinterface>

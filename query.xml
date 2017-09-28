@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ufinterface sender="001" receiver="u8" roottag="saleorder" docid="918008327" proc="Query" codeexchanged="N" exportneedexch="N" paginate="0" display="销售订单" family="销售管理" timestamp="0x000000000027B64A">
+	<saleorder>
+	</saleorder>
+</ufinterface>
